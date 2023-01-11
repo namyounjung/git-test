@@ -1,2 +1,3 @@
 cloned new file
-git-test-cloned
+git-test
+
